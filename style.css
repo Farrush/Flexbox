@@ -1,0 +1,18 @@
+.container {
+    display:flex;
+    flex-flow:row;
+    justify-content:space-around;
+    
+}
+header h1{
+    background-color:rgb(36, 87, 255);
+    color:white;
+    text-align:center;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+.container article {
+    background-color:rgb(10, 155, 53);
+    margin:10px;
+    padding:15px;
+}
